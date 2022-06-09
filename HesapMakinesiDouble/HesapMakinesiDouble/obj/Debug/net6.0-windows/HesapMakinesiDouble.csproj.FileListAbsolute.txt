@@ -1,0 +1,17 @@
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net6.0-windows\HesapMakinesiDouble.exe
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net6.0-windows\HesapMakinesiDouble.deps.json
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net6.0-windows\HesapMakinesiDouble.runtimeconfig.json
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net6.0-windows\HesapMakinesiDouble.dll
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net6.0-windows\ref\HesapMakinesiDouble.dll
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\bin\Debug\net6.0-windows\HesapMakinesiDouble.pdb
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.csproj.AssemblyReference.cache
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.Form1.resources
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.csproj.GenerateResource.cache
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.AssemblyInfoInputs.cache
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.AssemblyInfo.cs
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.csproj.CoreCompileInputs.cache
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.dll
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\ref\HesapMakinesiDouble.dll
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.pdb
+C:\Users\OĞUZ RAMAZAN\source\repos\HesapMakinesiDouble\HesapMakinesiDouble\obj\Debug\net6.0-windows\HesapMakinesiDouble.genruntimeconfig.cache
